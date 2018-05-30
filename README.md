@@ -9,3 +9,6 @@ learning git
 
 3. 一个feature测试完成，已经确定没有问题的时候。checkout到master分支，git pull --rebase 拉取远程master
 
+4. git merge mybranch 把开发的分支合并到master，有冲突解决
+
+5. 推送自己的修改到远程分支
